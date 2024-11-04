@@ -2,7 +2,7 @@ Hi, I'm Leon.
 
 You can view my developer portfolio, showcasing recent projects, here: https://leonpotgieter-dev.com.
 
-I love building new things, especially back-end work, and I enjoy learning new technologies. My current language of choice is **Python**, typically within the Django framework. I also have experience with Ruby, Pascal, and C. I particularly enjoy solving back-end problems and developing creative solutions. I'm very comfortable with HTML, CSS, and especially **JavaScript**. 
+I love building new things, especially back-end work, and I enjoy learning new technologies. My current language of choice is **Python**, typically within the Django framework. I also have experience with Ruby, Pascal, and C. I particularly enjoy solving back-end problems and developing creative solutions. I'm very comfortable with HTML, CSS, and especially **JavaScript/React**. 
 
 While I’m not formally trained as a UI/UX designer, I have some experience in the field and have done digital design for both online and offline platforms.
 
@@ -14,8 +14,9 @@ While I’m not formally trained as a UI/UX designer, I have some experience in 
 
 ### Frameworks
 
-<img src="https://img.shields.io/badge/Django-grey.svg?logo=django">&nbsp;<img src="https://img.shields.io/badge/Flask-grey.svg?logo=flask">
+<img src="https://img.shields.io/badge/Django-grey.svg?logo=django">&nbsp;<img src="https://img.shields.io/badge/React-grey.svg?logo=React">&nbsp;<img src="https://img.shields.io/badge/Flask-grey.svg?logo=flask">
 <img src="https://img.shields.io/badge/Bootstrap-grey.svg?logo=Bootstrap">
+
 
 ### Libraries
 
